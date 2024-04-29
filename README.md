@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DeepanshuChakraborty
-- 👀 I’m a data enthusiast and I am currently working as a Data Scientist at Wolters Kluwers India.
+- 👀 I’m a data enthusiast and I am currently working as a Data Scientist 2 at Wolters Kluwers India.
 - 🌱 I’m a keen learner and contributer to the data science community.
 - 💞️ I’m looking to collaborate on Python, SQL, R, Machine Learning, AI and any visualization tools.
 - 📫 How to reach me chakravartydipanshu93@gmail.com.
