@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Deepanshu Chakraborty
 
-Senior Data Scientist with 5+ years of experience solving real-world business problems using
+Senior Data Scientist with 8+ years of experience solving real-world business problems using
 Machine Learning, Time Series Forecasting, Deep Learning and GenAI.
 
 🔹 Expertise in subscription businesses, pricing, churn, forecasting and FP&A analytics  
