@@ -1,7 +1,24 @@
-- 👋 Hi, I’m @DeepanshuChakraborty
-- 👀 I’m an experienced Data Scientist currently working at NatWest Group (Royal Bank of Scotland).
-- 🌱 I’m a keen learner and contributer to the data science community.
-- 💞️ I’m looking to collaborate on Python, SQL, R, Machine Learning and AI.
+# 👋 Hi, I'm Deepanshu Chakraborty
+
+Senior Data Scientist with 5+ years of experience solving real-world business problems using
+Machine Learning, Time Series Forecasting, Deep Learning and GenAI.
+
+🔹 Expertise in subscription businesses, pricing, churn, forecasting and FP&A analytics  
+🔹 Strong focus on business impact and production-ready solutions  
+
+## 🛠 Tech Stack
+Python | SQL | Machine Learning | NLP | Deep Learning | GenAI | Power BI | Azure | Time Series
+
+## 🚀 Featured Projects
+- 📊 Customer Churn & Pricing Sensitivity
+- 📈 Time Series Forecasting (ARIMA/SARIMA)
+- 🤖 GenAI Business Insights Assistant
+- 🧠 NLP Text Classification (Deep Learning)
+- ⚙️ ML Production Pipeline
+
+📄 [Resume](link-to-resume)  
+🔗 [LinkedIn](https://www.linkedin.com/in/deepanshuchakrabortydatascientist)
+
 - 📫 How to reach me chakravartydipanshu93@gmail.com.
 
 
